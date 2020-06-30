@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 pseudo code
 {
 Initial function()
@@ -9,4 +8,10 @@ Initial function()
 Initial security()
 {
    //sample code
+}
+security patch()
+{
+//security patch added 
+}
 
+}
