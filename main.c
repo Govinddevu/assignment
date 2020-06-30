@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 pseudo code
 {
 Initial function()
@@ -9,4 +8,9 @@ Initial function()
 Initial security()
 {
    //sample code
+}
+feature2(){
+//f2 added
+}
 
+}
